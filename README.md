@@ -1,6 +1,6 @@
 # gym
 
-Este repositorio esta diseñado para compartir ejercicios de las diferentes temáticas trabajadas en el grupo, con el objetivo de fortaleces el entrenamiento :)
+Este repositorio esta diseñado para compartir ejercicios de las diferentes temáticas trabajadas en el grupo, con el objetivo de fortalecer el entrenamiento :)
 
 ### Introductorios
 
