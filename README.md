@@ -2,30 +2,29 @@
 
 Este repositorio esta diseñado para compartir ejercicios de las diferentes temáticas trabajadas en el grupo, con el objetivo de fortalecer el entrenamiento :)
 
-Introductorios - Ad Hoc
-Estructuras de Datos
-    Segment Tree
-Paradigmas
-    Greedy
-    Divide y Vencerás
-    Programación Dinámica
-Grafos
-    Recorridos sobre Grafos
-    Componentes fuertemente conexas
-    Árboles de expansión mínima
-    Ruta más corta
-    Puntos de Articulación y Puentes
-    Flujos
-Matemáticas
-    Teoria de Juegos
-    FFT
-Strings
-Geometría
 
-|| UVA |
-|| UVA |
+- [Introductorios - Ad Hoc](#introductorios-ad-hoc)
+- [Estructuras de Datos](#estructuras-de-datos)
+    - [Segment Tree](#segment-tree)
+- [Paradigmas](#paradigmas)
+    - [Greedy](#greedy)
+    - [Divide y Vencerás](#divide-y-venceras)
+    - [Programación Dinámica](#programacion-dinamica)
+- [Grafos](#grafos)
+    - [Recorridos sobre Grafos](#recorridos-sobre-grafos)
+    - [Componentes fuertemente conexas](#componentes-fuertemente-conexas)
+    - [Árboles de expansión mínima](#arboles-de-expansion-minima)
+    - [Ruta más corta](#ruta-mas-corta)
+    - [Puntos de Articulación y Puentes](#puntos-de-articulacion-y-puentes)
+    - [Flujos](#flujos)
+- [Matemáticas](#matematicas)
+    - [Teoria de Juegos](#teoria-de-juegos)
+    - [FFT](#fft)
+- [Strings](#strings)
+- [Geometría](#geometria)
 
-## Introductorios - Ad Hoc
+
+## Introductorios Ad Hoc
 
 Ejercicio | url | juez |
 :-- | :--: | --: |
@@ -86,8 +85,9 @@ Potentiometers|https://uva.onlinejudge.org/index.php?option=onlinejudge&page=sho
 Little Elephant and Array|http://codeforces.com/problemset/problem/220/B| CODEFORCES |
 Tobby and Query|https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=4993| UVA |
 
+[Segment Tree Contest](https://a2oj.com/contest?ID=32364)
 
-##Paradigmas
+## Paradigmas
 
 ### Greedy
 
@@ -108,13 +108,13 @@ Black and White|http://www.spoj.com/problems/BANDW/en/| SPOJ |
 Feed with candy|http://codeforces.com/problemset/problem/436/A| CODEFORCES |
 Rush Hour|http://www.spoj.com/problems/TAP2014H/en/| SPOJ |
 
-### Divide y Vencerás
+### Divide y Venceras
 
 Ejercicio | url | juez |
 :-- | :--: | --: |
 Crossed Ladders|https://vjudge.net/problem/26779/origin| LightOJ |
 
-### Programación Dinámica
+### Programacion Dinamica
 
 Ejercicio | url | juez |
 :-- | :--: | --: |
@@ -137,6 +137,10 @@ Black or White|http://www.spoj.com/problems/BORW/en/| SPOJ |
 Arranging Heaps|https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4142| Live Archive |
 Preorder Test|http://codeforces.com/problemset/problem/627/D| CODEFORCES |
 Finding the way|http://www.spoj.com/problems/TAP2016B/en/| SPOJ |
+Maximum Sum|http://acm.timus.ru/problem.aspx?space=1&num=1146| TIMUS |
+Scientific Conference|http://acm.timus.ru/problem.aspx?space=1&num=1203| TIMUS |
+
+[Dynamic Programming Contest](https://a2oj.com/contest?ID=32596)
 
 
 ## Grafos
@@ -159,6 +163,7 @@ Imperialism|http://www.spoj.com/problems/IMPER/en/| SPOJ |
 Erdos et al|http://www.spoj.com/problems/TAP2014E/en/| SPOJ |
 Correlations|http://www.spoj.com/problems/TAP2016C/en/| SPOJ |
 Little Red-Cap|http://www.spoj.com/problems/TAP2013C/en/| SPOJ |
+Two Teams|http://acm.timus.ru/problem.aspx?space=1&num=1106| TIMUS |
 
 ### Componentes fuertemente conexas
 
@@ -170,7 +175,7 @@ Come and go|https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_p
 Calling circles|https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=183| UVA |
 Test|https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=1672| UVA |
 
-### Árboles de expansión mínima
+### Arboles de expansion minima
 
 Ejercicio | url | juez |
 :-- | :--: | --: |
@@ -180,7 +185,9 @@ ACM Contest and Blackout|https://uva.onlinejudge.org/index.php?option=onlinejudg
 Oreon|https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=3649| UVA |
 Driving range|https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=2957| UVA |
 
-### Ruta más corta
+[MST Contest](https://a2oj.com/contest?ID=32498)
+
+### Ruta mas corta
 
 Ejercicio | url | juez |
 :-- | :--: | --: |
@@ -188,7 +195,9 @@ Commandos|https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_pro
 MPI Maelstrom|https://uva.onlinejudge.org/index.php?option=onlinejudge&page=show_problem&problem=364| UVA |
 He is lazy|http://www.spoj.com/problems/HEISLAZY/en/| SPOJ |
 
-### Puntos de Articulación y Puentes
+[Shortest Path Contest](https://a2oj.com/contest?ID=32546)
+
+### Puntos de Articulacion y Puentes
 
 Ejercicio | url | juez |
 :-- | :--: | --: |
@@ -202,8 +211,9 @@ Ejercicio | url | juez |
 :-- | :--: | --: |
 Hooligan|https://icpcarchive.ecs.baylor.edu/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2480| SPOJ |
 
+[Max Flow Contest](https://a2oj.com/contest?ID=32582)
 
-## Matemáticas
+## Matematicas
 
 Ejercicio | url | juez |
 :-- | :--: | --: |
@@ -227,16 +237,23 @@ Enumerating rational numbers|https://uva.onlinejudge.org/index.php?option=online
 Getting there fast|http://www.spoj.com/problems/GETFAST/en/| SPOJ |
 The Holmes Children|http://codeforces.com/problemset/problem/776/E| CODEFORCES |
 
+[Number Theory](https://a2oj.com/contest?ID=32762)
+
 ### Teoria de Juegos
 
 Ejercicio | url | juez |
 :-- | :--: | --: |
 Game of Stones|http://www.spoj.com/problems/TAP2013J/en/| SPOJ |
+Stone Game|http://acm.timus.ru/problem.aspx?space=1&num=1180| TIMUS |
 
 ### FFT
 Ejercicio | url | juez |
 :-- | :--: | --: |
-|| SPOJ |
+Golf Bot|https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4744| UVA |
+Maximum Self-Matching|http://www.spoj.com/problems/MAXMATCH/en/| SPOJ |
+Fast Multiplication|http://www.spoj.com/problems/MUL/| SPOJ |
+
+[FFT Contest](https://a2oj.com/Category.jsp?ID=42)
 
 
 ## Strings
@@ -259,8 +276,9 @@ Period|http://www.spoj.com/problems/PERIOD/en/| SPOJ |
 Freedom of Choice|http://acm.timus.ru/problem.aspx?space=1&num=1517| TIMUS |
 Designing T-Shirts|http://www.spoj.com/problems/TAP2012D/en/| SPOJ |
 
+[Strings Contest](https://a2oj.com/contest?ID=32648)
 
-## Geometría
+## Geometria
 
 Ejercicio | url | juez |
 :-- | :--: | --: |
